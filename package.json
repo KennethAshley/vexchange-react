@@ -12,7 +12,7 @@
     "clipboard": "^2.0.6",
     "emotion-theming": "^10.0.27",
     "ethers": "^5.0.5",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "qrcode": "^1.4.4",
     "react": "^16.13.1",
